@@ -13,5 +13,5 @@
 - **Cursor**: The Power User's AI-Native IDE - built for experienced developers
 - **Windsurf Editor**: The Agentic Coder - for forward-thinking developers and teams
 - **Kiro**: The Enterprise-Ready AI IDE - tailored for enterprise teams
-- 
+
 [Vibe Coding Tools Navigator](https://ai-services-review.github.io/Vibe-Coding-Tools-Navigator/) (August 2025)
